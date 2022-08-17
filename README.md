@@ -6,6 +6,10 @@ WAKFU Version 1.76 - New Horizons
 
 **Passport design created by Stotena.**
 
+17.08.2022:
+Changed some menu icons:
+![image](https://user-images.githubusercontent.com/94634132/185227277-b9142190-de75-47ba-8985-d61585a68a98.png)
+
 ![image](https://user-images.githubusercontent.com/94634132/184757536-165b99cb-64df-4484-9677-4e9af9c775b1.png)
 
 ![image](https://user-images.githubusercontent.com/94634132/184757561-3d62d085-7a51-489d-8300-3736415ce96c.png)
