@@ -2,11 +2,11 @@
 A classic dark carbon theme for Wakfu
 
 Last Update: 
-WAKFU Version 1.76 - New Horizons
+WAKFU Version 1.77
 
 **Passport design created by Stotena.**
 
-17.08.2022:
+06.10.2022:
 
 Changed some menu icons:
 
