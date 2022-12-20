@@ -6,6 +6,8 @@ WAKFU Version 1.77
 
 **Passport design created by Stotena.**
 
+12.12.2022: Updated to version 1.78.
+
 06.10.2022: Updated to version 1.77.
 
 17.08.2022: Updated to version 1.76.
