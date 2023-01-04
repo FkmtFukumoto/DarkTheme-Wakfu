@@ -2,7 +2,7 @@
 A classic dark carbon theme for Wakfu
 
 Last Update: 
-WAKFU Version 1.77
+WAKFU Version 1.78
 
 **Passport design created by Stotena.**
 
