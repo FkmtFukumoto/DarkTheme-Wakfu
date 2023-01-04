@@ -8,6 +8,11 @@ WAKFU Version 1.77
 
 12.12.2022: Updated to version 1.78.
 
+Changed the Full Tactical view:
+
+https://imgur.com/ft9RYHC
+![image](https://user-images.githubusercontent.com/94634132/210650459-4bfd41b4-1102-4ecf-81ea-60b0ee1b10c9.png)
+
 06.10.2022: Updated to version 1.77.
 
 17.08.2022: Updated to version 1.76.
